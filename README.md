@@ -20,4 +20,4 @@ Convert all applicable characters to HTML entities.
 ## Changelog:
 
     Version 1.0.0
-    2012/02/01: Initial public release.
+    2013/02/01: Initial public release.
